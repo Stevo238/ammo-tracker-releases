@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/Stevo238/ammo-tracker-releases/releases/download/v1.1.0/AmmoTracker.exe",
-  "notes": "Google Drive backups + server auto-update mode"
+  "version": "1.1.1",
+  "url": "https://github.com/Stevo238/ammo-tracker-releases/releases/download/v1.1.1/AmmoTracker.exe",
+  "notes": "HOST env var to restrict network binding (localhost-only behind the reverse proxy)."
 }
