@@ -1,5 +1,6 @@
 {
-  "version": "1.1.2",
-  "url": "https://github.com/Stevo238/ammo-tracker-releases/releases/download/v1.1.2/AmmoTracker.exe",
-  "notes": "Fixes a startup crash in 1.1.1; HOST env var for localhost-only binding."
+    "version":  "1.2.0",
+    "url":  "https://github.com/Stevo238/ammo-tracker-releases/releases/download/v1.2.0/AmmoTracker.exe",
+    "notes":  "Security update (audit 2026-10-10). Saves are refused when another website tries to make them on your behalf. Updates must match a published fingerprint and come from the releases repo. Rebuilt on current libraries.",
+    "sha256":  "504fefa80315cda7209776af0dda7a13cc39e38a3b3bcaaa168f1b4472521b64"
 }
